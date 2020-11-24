@@ -14,3 +14,6 @@ Changed Section from Content div - Semantic
 Changed CSS for NAV and Section
 Changed Footer HTML and CSS
 Change - Hero Div to Figure? 
+
+
+- Added Alt attributes for included images 
