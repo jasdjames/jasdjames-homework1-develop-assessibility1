@@ -12,3 +12,5 @@ Changed CSS for Aside
 Change Nav - Semantic 
 Changed Section from Content div - Semantic 
 Changed CSS for NAV and Section
+Changed Footer HTML and CSS
+Change - Hero Div to Figure? 
