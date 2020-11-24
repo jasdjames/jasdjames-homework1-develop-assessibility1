@@ -9,4 +9,6 @@ Change CSS class to e
 Aside Semantic - HTML 
 Changed CSS for Aside 
 
-Nav 
+Change Nav - Semantic 
+Changed Section from Content div - Semantic 
+Changed CSS for NAV and Section
