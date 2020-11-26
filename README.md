@@ -17,3 +17,4 @@ Change - Hero Div to Figure?
 
 
 - Added Alt attributes for included images 
+h3 to h2 
