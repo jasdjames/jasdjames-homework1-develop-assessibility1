@@ -16,5 +16,9 @@ Changed Footer HTML and CSS
 Change - Hero Div to Figure? 
 
 
-- Added Alt attributes for included images 
+ Added Alt attributes for included images 
 h3 to h2 
+
+ Changed Location of aside in HTML 
+
+Reduced reduncy in CSS - Aside 
