@@ -22,3 +22,12 @@ h3 to h2
  Changed Location of aside in HTML 
 
 Reduced reduncy in CSS - Aside 
+
+fixed broken link - misspelled 
+
+Re organized HTML - In order 
+
+Changed CSS class to semantic section
+
+Changed padding in section 
+added padding-bottom to section image 
