@@ -29,5 +29,6 @@ Re organized HTML - In order
 
 Changed CSS class to semantic section
 
-Changed padding in section 
-added padding-bottom to section image 
+Adjusted the the padding to make the final product look more like the mock-up
+
+consolidated elements of the CSS
