@@ -1,130 +1,170 @@
+
 * {
+    /* Box Model */
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
 body {
+    /* Visual */
     background-color: #d9dcd6;
 }
 
 header {
+    /* Box Model */
     padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* Visual */
     background-color: #2a607c;
-    color: #ffffff;
+    /* Typography */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ffffff; 
 }
 
  h1 {
+     /* Postioning */
     display: inline-block;
+   /* Typography */
     font-size: 48px;
 }
 
  h1 .seo {
+/* Typography */
     color: #d9dcd6;
 }
 
 nav {
+    /* Box Model */
     padding-top: 15px;
     margin-right: 20px;
     float: right;
+    /* Typography */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
-nav ul {
+nav ul { 
+    /* Visual */
     list-style-type: none;
 }
 
 nav ul li {
-    display: inline-block;
-    margin-left: 25px;
+    /* Box Model */
+     margin-left: 25px;
+     /* Positioning */
+     display: inline-block;
 }
 
 a {
+    /* Typography */
     color: #ffffff;
     text-decoration: none;
 }
 
 p {
+    /* Typography */
     font-size: 16px;
 }
 
 figure {
+    /* Box Model */
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
+    /* Visual */
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
+    /* Positioning */
     background-position: center;
 }
 
 aside {
+    /* Box Model */
     margin-right: 20px;
     padding: 20px;
     clear: both;
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* Visual */
     background-color: #2589bd;
-    color: white;
+    /* Typography */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     color: white;
 }
 
 aside h2 {
+    /* Box Model */
     margin-bottom: 32px;
+    /* Typography */
     text-align: center;
 }
 
 aside img {
+    /* Box Model */
+    margin: 10px auto; 
+    /* Visual */
     display: block;
-    margin: 10px auto;
     max-width: 150px;
 }
 
 aside p {
-
+/* Box Model */
 padding: 20px;
 margin-bottom: 10px;
 }
+
 section {
-    width: 75%;
-    display: inline-block;
+    /* Box Model */
     margin-left: 20px;
     margin-bottom: 20px;
     padding: 30px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 75%;
+    /* Visual */
+    display: inline-block;
     background-color: #0072bb;
+    /* Typography */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #ffffff;
 }
 
  section img {
+     /* Visual */
     max-height: 200px;
    
 }
 
 section h2 {
+    /* Box Model */
     margin-bottom: 20px;
+    /* Typography */
     font-size: 36px;
 }
 
 .float-left {
+    /* Postioning */
     float: left;
+    /* Box Model */
     margin-right: 25px;
 }
 
 .float-right {
+    /* Positioning */
     float: right;
+    /* Box Model */
     margin-left: 25px;
 }
 footer {
+    /* Box Model */
     padding: 30px;
     clear: both;
+    /* Typographu */
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
 footer h2 {
+    /* Typography */
     font-size: 20px;
 }

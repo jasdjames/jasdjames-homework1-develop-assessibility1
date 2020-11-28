@@ -32,3 +32,5 @@ Changed CSS class to semantic section
 Adjusted the the padding to make the final product look more like the mock-up
 
 consolidated elements of the CSS
+
+Removed unused classes 
