@@ -45,6 +45,7 @@ I used the following tutorials and reference guides as assistance in completing 
 - [The Semantic Web as a language of logic] (https://www.w3.org/DesignIssues/Logic.html)
 - [W3 Comments] (https://www.w3schools.com/css/css_comments.asp)
 -  [https://choosealicense.com/](https://choosealicense.com/)
+- [https://webaim.org/resources/contrastchecker/] (https://webaim.org/resources/contrastchecker/)
 
 
 ## License
