@@ -21,68 +21,54 @@ The process included:
 
 ## Installation
 
-This project is listed in the the GitHub repostitory at this is link 
+This project is listed in the the GitHub repostitory at this is link [GitHub Repository](https://github.com/jasdjames/jasdjames-homework1-develop-assessibility1)
 
-This page has been deployed here 
+This page has been deployed here [Page] (https://jasdjames.github.io/jasdjames-homework1-develop-assessibility1/)
 
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
+The page functions in the same way as the original with the exception of the the broken link for "search engine optimization" that has been fixed. The HTML and CSS has become more semantic with alt attributes added to the images. Screenshots are provided below. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+![Screenshot Top](./assets/images/screenshot-3.png)
+![Screenshot Mid ](./assets/images/screenshot-2.png)
+![Screenshot Bottom ](./assets/images/screenshot-1.png)
 
-```md
-![alt text](assets/images/screenshot.png)
-```
 
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+I used the following tutorials and reference guides as assistance in completing this task 
+- [W3 Schools HTML Alt Attributes] (https://www.w3schools.com/tags/att_img_alt.asp)
+- [The HTML Section Heading elements -Devloper.Mozilla] (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/heading_elements#Usage_notes)
+- [W3 Semantic Code] (https://www.w3schools.com/html/html5_semantic_elements.asp)
+- [The Semantic Web as a language of logic] (https://www.w3.org/DesignIssues/Logic.html)
+- [W3 Comments] (https://www.w3schools.com/css/css_comments.asp)
+-  [https://choosealicense.com/](https://choosealicense.com/)
 
 
 ## License
 
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
+ MIT License
+
+Copyright (c) [2020] [JasDJames]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 
-Homework to make a more accessible page / Horiseon 
-
-
-Changed Semantic HTML - Header
-Changed Changed Div ID to Header tag 
-Change CSS class to e
-
-Aside Semantic - HTML 
-Changed CSS for Aside 
-
-Change Nav - Semantic 
-Changed Section from Content div - Semantic 
-Changed CSS for NAV and Section
-Changed Footer HTML and CSS
-Change - Hero Div to Figure? 
-
-
- Added Alt attributes for included images 
-h3 to h2 
-
- Changed Location of aside in HTML 
-
-Reduced reduncy in CSS - Aside 
-
-fixed broken link - misspelled 
-
-Re organized HTML - In order 
-
-Changed CSS class to semantic section
-
-Adjusted the the padding to make the final product look more like the mock-up
-
-consolidated elements of the CSS
-
-Removed unused classes 
