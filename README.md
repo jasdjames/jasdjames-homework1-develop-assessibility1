@@ -16,7 +16,7 @@ The process included:
 - Re-organizing HTML 
 - Removing unused classes 
 - Overall organization and ordering of the HTML and CSS
-
+- Changed background colors for assessibility 
 
 
 ## Installation
